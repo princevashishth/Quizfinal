@@ -1,6 +1,5 @@
 # Quiz
-Quiz is an Open-source local Android app for testing your knowledge
-Quiz is completely free to use
+Quiz is an Open-source local Android app for testing your knowledge, Quiz is completely free to use
 
 ## Features
 Developer can add more questions
@@ -12,5 +11,4 @@ For installing apk on android smart phone download the apk file Quizfinal.apk sh
 ![](https://raw.githubusercontent.com/princevashishth/Quizfinal/master/app/screenshot.png)
 
 # Author
-Prince Vashishth
-Student at Indian Institute of Technology Kharagpur
+Prince Vashishth( Undergraduate Student at Indian Institute of Technology Kharagpur)
